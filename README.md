@@ -5,7 +5,7 @@ Learn how to use ros controls,etc. with this until the final model is made.
 
 This has 2 branches-
 
-1. <strong>Initial branch - </strong>contains model only.
+1. <strong>init_branch - </strong>contains model only. (started work from here)
 2. <strong> master -</strong> develop bot here.
 
 ## Quadruped_urdf3
