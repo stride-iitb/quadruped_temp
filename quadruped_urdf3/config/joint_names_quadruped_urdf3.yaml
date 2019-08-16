@@ -1,0 +1,1 @@
+controller_joint_names: ['', 'fl_upper_to_base', 'fl_lower_to_upper', 'fr_upper_to_base', 'fr_lower_to_upper', 'bl_upper_to_base', 'bl_lower_to_upper', 'br_upper_to_base', 'br_lower_to_upper', ]
