@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8">
+<launch>
+  file="$(find gazebo_ros)/launch/mud_world.launch"
+  
+</launch>
